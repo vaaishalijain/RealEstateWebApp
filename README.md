@@ -3,7 +3,7 @@ Python Django Fullstack Web Application
 
 It a Web Application made in Python Django using the Jinja web template engine.
 
-#Features Included <br/>
+# Features Included <br/>
 - Multiple Page
 - Links between pages
 - Multiple Apps
@@ -16,7 +16,9 @@ It a Web Application made in Python Django using the Jinja web template engine.
 - Pagination, Order, Filter and Dynamic Content
 - Authentication: Login, Register, Logout
 - Email interaction
+- Deployed on heroku
+- Data added dynamically
 
 
-#Reference <br/>
+# Reference <br/>
 Udemy Course
